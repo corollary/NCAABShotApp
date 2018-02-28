@@ -1,4 +1,107 @@
 PlayerName,PlayerTeam,Position
+Trae Young,Oklahoma Sooners,Guard
+Jaren Jackson Jr,Michigan State Spartans,Big
+Deandre Ayton,Arizona Wildcats,Big
+Mikal Bridges,Villanova Wildcats,Wing
+Mohamed Bamba,Texas Longhorns,Big
+Wendell Carter Jr,Duke Blue Devils,Big
+Collin Sexton,Alabama Crimson Tide,Guard
+Miles Bridges,Michigan State Spartans,Wing
+Robert Williams,Texas A&M Aggies,Big
+Troy Brown,Oregon Ducks,Guard
+Jontay Porter,Missouri Tigers,Big
+Kevin Knox,Kentucky Wildcats,Wing
+Daniel Gafford,Arkansas Razorbacks,Big
+Rawle Alkins,Arizona Wildcats,Wing
+Landry Shamet,Wichita State Shockers,Wing
+Shai GilgeousAlexander,Kentucky Wildcats,Guard
+Jevon Carter,West Virginia Mountaineers,Guard
+Jacob Evans III,Cincinnati Bearcats,Wing
+Ethan Happ,Wisconsin Badgers,Big
+Khyri Thomas,Creighton Bluejays,Wing
+Lonnie Walker IV,Miami (FL) Hurricanes,Wing
+Shake Milton,SMU Mustangs,Guard
+Bruce Brown Jr,Miami (FL) Hurricanes,Wing
+Chandler Hutchison,Boise State Broncos,Guard
+Markis McDuffie,Wichita State Shockers,Wing
+Gary Clark,Cincinnati Bearcats,Wing
+Josh Reaves,Penn State Nittany Lions,Wing
+Trevon Duval,Duke Blue Devils,Guard
+Hamidou Diallo,Kentucky Wildcats,Wing
+Keita BatesDiop,Ohio State Buckeyes,Wing
+Jalen Brunson,Villanova Wildcats,Guard
+Terence Davis,Ole Miss Rebels,Wing
+Nickeil AlexanderWalker,Virginia Tech Hokies,Wing
+Jarrey Foster,SMU Mustangs,Wing
+Chimezie Metu,USC Trojans,Big
+Jarred Vanderbilt,Kentucky Wildcats,Wing
+Kenrich Williams,TCU Horned Frogs,Wing
+Zhaire Smith,Texas Tech Red Raiders,Guard
+Josh Okogie,Georgia Tech Yellow Jackets,Wing
+Lagerald Vick,Kansas Jayhawks,Wing
+Bonzie Colson,Notre Dame Fighting Irish,Wing
+Rui Hachimura,Gonzaga Bulldogs,Wing
+Devonte Graham,Kansas Jayhawks,Guard
+Tyus Battle,Syracuse Orange,Wing
+Donta Hall,Alabama Crimson Tide,Big
+Kevin Hervey,UT Arlington Mavericks,Wing
+Shakur Juiston,UNLV Runnin' Rebels,Big
+Shamorie Ponds,St. John's Red Storm,Wing
+Kenny Wooten,Oregon Ducks,Big
+Brandon McCoy,UNLV Runnin' Rebels,Big
+Allonzo Trier,Arizona Wildcats,Wing
+Justin Jackson,Maryland Terrapins,Wing
+Jalen Hudson,Florida Gators,Wing
+Jaylen Hands,UCLA Bruins,Guard
+Nick Richards,Kentucky Wildcats,Big
+PJ Washington,Kentucky Wildcats,Wing
+Grayson Allen,Duke Blue Devils,Wing
+DJ Hogg,Texas A&M Aggies,Wing
+Justin Simon,St. John's Red Storm,Guard
+Charles Matthews,Michigan Wolverines,Wing
+Gary Trent Jr,Duke Blue Devils,Wing
+Javin DeLaurier,Duke Blue Devils,Big
+Nick Ward,Michigan State Spartans,Big
+Bryant Crawford,Wake Forest Demon Deacons,Guard
+Tremont Waters,LSU Tigers,Guard
+Aaron Holiday,UCLA Bruins,Guard
+Sviatoslav Mykhailiuk,Kansas Jayhawks,Wing
+Zach Norvell Jr,Gonzaga Bulldogs,Wing
+Kris Wilkes,UCLA Bruins,Wing
+Udoka Azubuike,Kansas Jayhawks,Big
+Cassius Winston,Michigan State Spartans,Guard
+Jaylen Adams,St. Bonaventure Bonnies,Guard
+Marvin Bagley III,Duke Blue Devils,Big
+Kamar Baldwin,Butler Bulldogs,Wing
+Oshae Brissett,Syracuse Orange,Big
+Jeffrey Carroll,Oklahoma State Cowboys,Wing
+Anthony Cowan Jr,Maryland Terrapins,Guard
+Jarrett Culver,Texas Tech Red Raiders,Wing
+Marcus Garrett,Kansas Jayhawks,Guard
+Donte Grantham,Clemson Tigers,Wing
+Sam Hauser,Marquette Golden Eagles,Wing
+Markus Howard,Marquette Golden Eagles,Wing
+Caleb Martin,Nevada Wolf Pack,Wing
+Yante Maten,Georgia Bulldogs,Big
+Dakota Mathias,Purdue Boilermakers,Guard
+Theo Pinson,North Carolina Tar Heels,Wing
+Brandon Randolph (Arizona Wildcats),Arizona Wildcats,Wing
+Kerwin Roach II,Texas Longhorns,Wing
+Dru Smith,Evansville Aces,Wing
+Milik Yarbrough,Illinois State Redbirds,Wing
+Omer Yurtseven,North Carolina State Wolfpack,Big
+Kostas Antetokounmpo,Dayton Flyers,Wing
+Tony Carr,Penn State Nittany Lions,Guard
+Vincent Edwards,Purdue Boilermakers,Wing
+Isaac Haas,Purdue Boilermakers,Big
+Aric Holman,Mississippi State Bulldogs,Big
+Alize Johnson,Missouri State Bears,Big
+Jordan Murphy,Minnesota Golden Gophers,Wing
+Malik Pope,San Diego State Aztecs,Wing
+DMarcus Simonds,Georgia State Panthers,Wing
+Ray Spalding,Louisville Cardinals,Big
+Matisse Thybulle,Washington Huskies,Wing
+Moritz Wagner,Michigan Wolverines,Wing
 Shaqquan Aaron,USC Trojans,Wing
 Hasan Abdullah,Navy Midshipmen,Guard
 MuhammadAli AbdurRahkman,Michigan Wolverines,Guard
@@ -13,7 +116,6 @@ Ako Adams,Rice Owls,Wing
 Jalen Adams,Connecticut Huskies,Guard
 Darian Adams,Troy Trojans,Wing
 Stephaun Adams,Tennessee Tech Golden Eagles,Wing
-Jaylen Adams,St. Bonaventure Bonnies,Guard
 Shelby Adams,Texas State Bobcats,Guard
 Jalen Adaway,Miami (OH) RedHawks,Guard
 Deng Adel,Louisville Cardinals,Wing
@@ -58,15 +160,12 @@ Kyle Alexander,Tennessee Volunteers,Big
 Galen Alexander,LSU Tigers,Wing
 Keion Alexander,Prairie View A&M Panthers,Wing
 Greg Alexander,Mount St. Mary's Mountaineers,Guard
-Nickeil AlexanderWalker,Virginia Tech Hokies,Wing
 Mubashar Ali,Southern University Jaguars,Big
 Prince Ali,UCLA Bruins,Wing
 Amar Alibegovic,St. John's Red Storm,Wing
-Rawle Alkins,Arizona Wildcats,Wing
 Alex Allbery,Omaha Mavericks,Guard
 Malcolm Allen,Northern Arizona Lumberjacks,Guard
 Stavian Allen,Norfolk State Spartans,Wing
-Grayson Allen,Duke Blue Devils,Wing
 Jordan Allen,Rider Broncs,Wing
 LaCurtis Allen,Mississippi Valley State Delta Devils,Wing
 Nick Allen,UTSA Roadrunners,Wing
@@ -125,7 +224,6 @@ Joel Angus III,Hofstra Pride,Wing
 Sacar Anim,Marquette Golden Eagles,Wing
 Kenny Aninye,Stetson Hatters,Guard
 EJ Anosike,Sacred Heart Pioneers,Wing
-Kostas Antetokounmpo,Dayton Flyers,Wing
 Marco Anthony,Virginia Cavaliers,Guard
 Rashed Anthony,Saint Louis Billikens,Wing
 Grant Anticevich,California Golden Bears,Wing
@@ -170,14 +268,11 @@ Jon Axel Gudmundsson,Davidson Wildcats,Guard
 Precious Ayah,Miami (OH) RedHawks,Big
 Josh Ayeni,St. Bonaventure Bonnies,Big
 Jamal Aytes,Southern Utah Thunderbirds,Wing
-Deandre Ayton,Arizona Wildcats,Big
-Udoka Azubuike,Kansas Jayhawks,Big
 Cameron Bacote,Maryland Eastern Shore Hawks,Guard
 Henry Baddley,Butler Bulldogs,Wing
 Jonathan Baehre,UNC Asheville Bulldogs,Big
 Nicholas Baer,Iowa Hawkeyes,Wing
 Charlie Bagin,Princeton Tigers,Guard
-Marvin Bagley III,Duke Blue Devils,Big
 Evan Bailey,Charleston Cougars,Wing
 Isaiah Bailey,Bethune-Cookman Wildcats,Guard
 Adrio Bailey,Arkansas Razorbacks,Big
@@ -193,13 +288,11 @@ Kevin Baker,Troy Trojans,Wing
 Geo Baker,Rutgers Scarlet Knights,Guard
 Robert Baker,Harvard Crimson,Wing
 Radwan Bakkali,Jacksonville Dolphins,Big
-Kamar Baldwin,Butler Bulldogs,Wing
 Chris Baldwin,Massachusetts Minutemen,Big
 Jack Ballantyne,Detroit Titans,Wing
 Deaundrae Ballard,Florida Gators,Wing
 Mitch Ballock,Creighton Bluejays,Wing
 Amidou Bamba,Coastal Carolina Chanticleers,Big
-Mohamed Bamba,Texas Longhorns,Big
 Desmond Bane,TCU Horned Frogs,Wing
 Dwayne Banks,South Carolina State Bulldogs,Guard
 Payton Banks,South Florida Bulls,Wing
@@ -233,11 +326,9 @@ Chris Barton,Niagara Purple Eagles,Guard
 Dontay Bassett,Florida Gators,Big
 Justin Bassey,Harvard Crimson,Wing
 James Batemon,Loyola Marymount Lions,Guard
-Keita BatesDiop,Ohio State Buckeyes,Wing
 Wil Bathurst,Cornell Big Red,Wing
 Tyson Batiste,Central Connecticut State Blue Devils,Wing
 Dana Batt,Colgate Raiders,Big
-Tyus Battle,Syracuse Orange,Wing
 Julian Batts,LIU Brooklyn Blackbirds,Guard
 Lavar Batts Jr,North Carolina State Wolfpack,Guard
 Noah Baumann,San Jose State Spartans,Wing
@@ -411,10 +502,7 @@ Aaron Brennan,IUPUI Jaguars,Wing
 Devon Brewer,Alcorn State Braves,Big
 Ledarrius Brewer,Southeast Missouri State Redhawks,Guard
 Kareem Brewton Jr,Memphis Tigers,Guard
-Mikal Bridges,Villanova Wildcats,Wing
-Miles Bridges,Michigan State Spartans,Wing
 Shon Briggs,Bakersfield Roadrunners,Wing
-Oshae Brissett,Syracuse Orange,Big
 Diogo Brito,Utah State Aggies,Wing
 Isaiah Brock,Oakland Golden Grizzlies,Wing
 Izaiah Brockington,St. Bonaventure Bonnies,Guard
@@ -451,7 +539,6 @@ Dalonte Brown,Miami (OH) RedHawks,Wing
 Zach Brown,Wichita State Shockers,Wing
 Chad Brown,UCF Knights,Big
 Elijah Brown,Oregon Ducks,Wing
-Troy Brown,Oregon Ducks,Guard
 Jayvon Brown,UC Riverside Highlanders,Guard
 Josh Brown,Temple Owls,Guard
 Carl Brown,CSUN Matadors,Guard
@@ -462,7 +549,6 @@ Devorious Brown,Florida Atlantic Owls,Wing
 Kyle Brown (Texas A&M-Corpus Christi Islanders),Texas A&M-Corpus Christi Islanders,Guard
 Tre Brown,Coastal Carolina Chanticleers,Guard
 Andrew Brown,Furman Paladins,Wing
-Bruce Brown Jr,Miami (FL) Hurricanes,Wing
 Barry Brown Jr,Kansas State Wildcats,Wing
 Justin Brown (UNC Asheville Bulldogs),UNC Asheville Bulldogs,Guard
 Billy Brown,North Dakota Fighting Hawks,Wing
@@ -476,7 +562,6 @@ Tamas Bruce,Arkansas State Red Wolves,Wing
 Thomas Bruce,Binghamton Bearcats,Big
 Taylor Bruninga,Illinois State Redbirds,Wing
 Joey Brunk,Butler Bulldogs,Big
-Jalen Brunson,Villanova Wildcats,Guard
 Delo Bruster,Western Illinois Leathernecks,Guard
 Marcus Bryan,UNCW Seahawks,Wing
 Trae Bryant,Maine Black Bears,Guard
@@ -569,18 +654,14 @@ Jordan Caroline,Nevada Wolf Pack,Wing
 Justin Carpenter,Southeast Missouri State Redhawks,Wing
 Kenny Carpenter,Cleveland State Vikings,Guard
 Marcus Carr,Pittsburgh Panthers,Guard
-Tony Carr,Penn State Nittany Lions,Guard
 Phillip Carr,Morgan State Bears,Wing
 Shaq Carr,Grand Canyon Antelopes,Guard
 Khadeen Carrington,Seton Hall Pirates,Wing
 Brandon Carroll,Bryant Bulldogs,Wing
-Jeffrey Carroll,Oklahoma State Cowboys,Wing
 John Carroll,Hartford Hawks,Wing
 Tyler Carter,Alcorn State Braves,Wing
-Wendell Carter Jr,Duke Blue Devils,Big
 Terrell Carter II,Fresno State Bulldogs,Big
 Vonte Carter,Portland State Vikings,Guard
-Jevon Carter,West Virginia Mountaineers,Guard
 Ben Carter,Michigan State Spartans,Big
 Tyson Carter,Mississippi State Bulldogs,Guard
 Nahziah Carter,Washington Huskies,Wing
@@ -654,7 +735,6 @@ Nico Clareth,Siena Saints,Wing
 Raiquan Clark,LIU Brooklyn Blackbirds,Wing
 Donte Clark,Texas Southern Tigers,Wing
 Tristan Clark,Baylor Bears,Big
-Gary Clark,Cincinnati Bearcats,Wing
 Kyle Clark,Saint Mary's Gaels,Wing
 Marvin Clark II,St. John's Red Storm,Wing
 Ahmad Clark,Albany Great Danes,Guard
@@ -708,7 +788,6 @@ Paris Collins,Jackson State Tigers,Guard
 Carter Collins,Davidson Wildcats,Guard
 Marquis Collins,Delaware State Hornets,Wing
 Chris Collins,Texas A&M Aggies,Guard
-Bonzie Colson,Notre Dame Fighting Irish,Wing
 Jeremy Combs,LSU Tigers,Wing
 John Comeaux,Stephen F. Austin Lumberjacks,Guard
 James Conley,Oral Roberts Golden Eagles,Guard
@@ -747,13 +826,11 @@ Cedric Council Jr,Coppin State Eagles,Wing
 Justin Cousin,Radford Highlanders,Guard
 Zion Cousins,Howard Bison,Wing
 Garrett Covington,Youngstown State Penguins,Guard
-Anthony Cowan Jr,Maryland Terrapins,Guard
 Jabari Craig,East Carolina Pirates,Big
 Geno Crandall,North Dakota Fighting Hawks,Guard
 Jason Crandall,Washington Huskies,Guard
 EJ Crawford,Iona Gaels,Wing
 Markel Crawford,Ole Miss Rebels,Wing
-Bryant Crawford,Wake Forest Demon Deacons,Guard
 Clayton Crawford,TCU Horned Frogs,Wing
 Calvin Crawford,Manhattan Jaspers,Wing
 Austin Crawford,Morehead State Eagles,Guard
@@ -777,7 +854,6 @@ Ivan Cucak,Austin Peay Governors,Big
 Jason Cudd,South Carolina Gamecocks,Big
 Elijah Cuffee,Liberty Flames,Wing
 Matt Cullen,Navy Midshipmen,Wing
-Jarrett Culver,Texas Tech Red Raiders,Wing
 Jaevin Cumberland,Oakland Golden Grizzlies,Guard
 Jarron Cumberland,Cincinnati Bearcats,Wing
 Daniel Cummings,Tennessee State Tigers,Wing
@@ -852,7 +928,6 @@ AJ Davis,UCF Knights,Wing
 KJ Davis,East Carolina Pirates,Wing
 Daejon Davis,Stanford Cardinal,Wing
 Juan Davis Jr,Troy Trojans,Wing
-Terence Davis,Ole Miss Rebels,Wing
 Jonathan Davis,Baylor Bears,Wing
 Drew Davis,Mississippi State Bulldogs,Guard
 Lyles Davis,Clemson Tigers,Guard
@@ -885,7 +960,6 @@ Ceasar DeJesus,UCF Knights,Guard
 Tim Delaney,Villanova Wildcats,Big
 Josh Delaney,Sam Houston State Bearkats,Guard
 Cameron Delaney,Sam Houston State Bearkats,Guard
-Javin DeLaurier,Duke Blue Devils,Big
 Angel Delgado,Seton Hall Pirates,Big
 Ronald Delph,Florida Atlantic Owls,Big
 Cheickna Dembele,UNLV Runnin' Rebels,Big
@@ -907,7 +981,6 @@ Soufiyane Diakite,Bethune-Cookman Wildcats,Wing
 Mamadi Diakite,Virginia Cavaliers,Big
 Cheikh Diallo,American University Eagles,Wing
 Idy Diallo,UC Riverside Highlanders,Big
-Hamidou Diallo,Kentucky Wildcats,Wing
 Aboubacar Diallo,Eastern Illinois Panthers,Wing
 Alpha Diallo,Providence Friars,Wing
 Mamadou Diarra,Connecticut Huskies,Big
@@ -996,7 +1069,6 @@ Anthony Durham,Rider Broncs,Guard
 Damiyne Durham,Bakersfield Roadrunners,Guard
 Aljami Durham,Indiana Hoosiers,Wing
 Anthony Duruji,Louisiana Tech Bulldogs,Wing
-Trevon Duval,Duke Blue Devils,Guard
 Malcolm Duvivier,Akron Zips,Guard
 Thomas Dziagwa,Oklahoma State Cowboys,Guard
 Brett Easterling,Auburn Tigers,Guard
@@ -1021,7 +1093,6 @@ Mike Edwards,Georgia Bulldogs,Big
 Tyrik Edwards,Jacksonville State Gamecocks,Guard
 Daryl Edwards,LSU Tigers,Guard
 Lorenzo Edwards,Saint Joseph's Hawks,Big
-Vincent Edwards,Purdue Boilermakers,Wing
 Abrian Edwards,Sam Houston State Bearkats,Wing
 Andre Edwards,East Tennessee State Buccaneers,Wing
 David Efianayi,Gardner-Webb Runnin' Bulldogs,Guard
@@ -1070,7 +1141,6 @@ Keenan Evans,Texas Tech Red Raiders,Guard
 Tre Evans,Fordham Rams,Guard
 Maxwell Evans,Vanderbilt Commodores,Wing
 Shannon Evans II,Arizona State Sun Devils,Guard
-Jacob Evans III,Cincinnati Bearcats,Wing
 Yaradyah Evans,St. Francis Brooklyn Terriers,Wing
 Bakari Evelyn,Valparaiso Crusaders,Guard
 Eden Ewing,Purdue Boilermakers,Wing
@@ -1156,7 +1226,6 @@ Kyle Foster,Howard Bison,Wing
 Marcus Foster,Creighton Bluejays,Guard
 CJ Foster,Arkansas State Red Wolves,Guard
 Chase Foster,San Francisco Dons,Wing
-Jarrey Foster,SMU Mustangs,Wing
 Alex Foster,Albany Great Danes,Wing
 Tevin Foster,Abilene Christian Wildcats,Guard
 Elijah Foster,Nevada Wolf Pack,Wing
@@ -1224,7 +1293,6 @@ Joe Furstinger,New Mexico Lobos,Wing
 Isaiah Gable,Southeast Missouri State Redhawks,Wing
 Wenyen Gabriel,Kentucky Wildcats,Big
 Joniya Gadson,Bowling Green Falcons,Big
-Daniel Gafford,Arkansas Razorbacks,Big
 Devin Gage,DePaul Blue Demons,Guard
 Anthony Gaines,Northwestern Wildcats,Wing
 Jamal Gaines,Bethune-Cookman Wildcats,Guard
@@ -1247,7 +1315,6 @@ Shep Garner,Penn State Nittany Lions,Guard
 Jordan Garnett,Northern Kentucky Norse,Wing
 Karlis Garoza,Cal Poly Mustangs,Big
 Jeff Garrett,Northern Kentucky Norse,Wing
-Marcus Garrett,Kansas Jayhawks,Guard
 Jarvis Garrett,Rhode Island Rams,Guard
 Marcellus Garrick,Cal Poly Mustangs,Guard
 Nick Garth,Lamar Cardinals,Guard
@@ -1294,7 +1361,6 @@ Alterique Gilbert,Connecticut Huskies,Guard
 Admon Gilder,Texas A&M Aggies,Wing
 Jordan Giles,UMKC Kangaroos,Wing
 Chris Giles,Oklahoma Sooners,Guard
-Shai GilgeousAlexander,Kentucky Wildcats,Guard
 Garrett Gilkeson,VMI Keydets,Guard
 Jailen Gill,UT Martin Skyhawks,Wing
 Anton Gill,Nebraska Cornhuskers,Guard
@@ -1351,7 +1417,6 @@ Jessie Govan,Georgetown Hoyas,Big
 Denny Grace,Villanova Wildcats,Guard
 Khalil Gracey,Morgan State Bears,Guard
 Kellan Grady,Davidson Wildcats,Guard
-Devonte Graham,Kansas Jayhawks,Guard
 Cody Graham,Incarnate Word Cardinals,Guard
 Austin Grandstaff,DePaul Blue Demons,Wing
 Kevin Granger Jr,Texas Southern Tigers,Wing
@@ -1360,7 +1425,6 @@ Juwan Grant,Savannah State Tigers,Wing
 Adam Grant,Bryant Bulldogs,Wing
 Jourdan Grant,UMBC Retrievers,Guard
 Gabe Grant,Houston Cougars,Wing
-Donte Grantham,Clemson Tigers,Wing
 Jayvon Graves,Buffalo Bulls,Guard
 Marshall Graves,LSU Tigers,Guard
 Hassani Gravett,South Carolina Gamecocks,Wing
@@ -1420,11 +1484,9 @@ Isaiah Gurley,Texas State Bobcats,Guard
 Rokas Gustys,Hofstra Pride,Big
 Kyle Guy,Virginia Cavaliers,Wing
 Matt Haarms,Purdue Boilermakers,Big
-Isaac Haas,Purdue Boilermakers,Big
 August Haas,Milwaukee Panthers,Guard
 Felipe Haase,South Carolina Gamecocks,Big
 Omar Habwe,Mount St. Mary's Mountaineers,Wing
-Rui Hachimura,Gonzaga Bulldogs,Wing
 Tyler Hadden,Belmont Bruins,Big
 Gabe Hadley,New Mexico State Aggies,Guard
 Damir Hadzic,Little Rock Trojans,Big
@@ -1438,7 +1500,6 @@ Devonte Hall,Northwestern State Demons,Guard
 Marcus Hall,Howard Bison,Wing
 Devon Hall,Virginia Cavaliers,Guard
 Darious Hall,Arkansas Razorbacks,Wing
-Donta Hall,Alabama Crimson Tide,Big
 Jaylon Hall,Wright State Raiders,Guard
 John Hall,Evansville Aces,Wing
 Josh Hall,Nevada Wolf Pack,Guard
@@ -1459,14 +1520,12 @@ Royce Hamm Jr,Texas Longhorns,Big
 Deion Hammond,Monmouth Hawks,Guard
 Rayshaun Hammonds,Georgia Bulldogs,Wing
 Anfernee Hampton,Southern Miss Golden Eagles,Guard
-Jaylen Hands,UCLA Bruins,Guard
 Joe Hanel,DePaul Blue Demons,Wing
 Zach Haney,Boise State Broncos,Wing
 Steven Haney Jr,Loyola Marymount Lions,Wing
 Cedric Hankerson,Boston University Terriers,Guard
 Kam Hankerson,Green Bay Phoenix,Wing
 Myles Hanson,Columbia Lions,Wing
-Ethan Happ,Wisconsin Badgers,Big
 Elias Harden,Xavier Musketeers,Guard
 Jahshire Hardnett,BYU Cougars,Guard
 Edward Hardt,Houston Baptist Huskies,Big
@@ -1527,7 +1586,6 @@ Malek Harwell,Boise State Broncos,Guard
 Rio Haskett,Harvard Crimson,Wing
 Jailan Haslem,Charlotte 49ers,Big
 Dylan Hastings,Lafayette Leopards,Wing
-Sam Hauser,Marquette Golden Eagles,Wing
 Matt Hauser,Santa Clara Broncos,Wing
 Nick Havener,Boston University Terriers,Wing
 Cavit Havsa,Fordham Rams,Guard
@@ -1579,7 +1637,6 @@ Alan Herndon,Wyoming Cowboys,Wing
 Mustapha Heron,Auburn Tigers,Wing
 Jacob Herrs,Wichita State Shockers,Guard
 Keaton Hervey,Incarnate Word Cardinals,Guard
-Kevin Hervey,UT Arlington Mavericks,Wing
 Parrish Hewitt,UT Martin Skyhawks,Guard
 Brent Hibbitts,Michigan Wolverines,Wing
 Nate Hickman,Columbia Lions,Guard
@@ -1616,13 +1673,11 @@ Jayden Hodgson,Bradley Braves,Guard
 Sean Hoehn,Sacred Heart Pioneers,Guard
 Mike Hoffman,Texas-Rio Grande Valley Vaqueros,Wing
 Jaleel Hogan,Detroit Titans,Wing
-DJ Hogg,Texas A&M Aggies,Wing
 Sean Hoggs,Maryland Eastern Shore Hawks,Guard
 Brent Holcombe,Loyola Maryland Greyhounds,Wing
 Kory Holden,South Carolina Gamecocks,Guard
 Rickey Holden,Bakersfield Roadrunners,Guard
 Tra Holder,Arizona State Sun Devils,Guard
-Aaron Holiday,UCLA Bruins,Guard
 Rian Holland,Mercer Bears,Guard
 Devonnte Holland,Radford Highlanders,Big
 Kevin Holland,Southern Miss Golden Eagles,Guard
@@ -1636,7 +1691,6 @@ Alfred Hollins,Oregon State Beavers,Wing
 Rashaan Holloway,Massachusetts Minutemen,Big
 Mike Holloway Jr,Fairleigh Dickinson Knights,Big
 Tray Hollowell,Wofford Terriers,Guard
-Aric Holman,Mississippi State Bulldogs,Big
 Deion Holmes,USC Upstate Spartans,Wing
 Jonathan Holmes,Arkansas Razorbacks,Guard
 Allante Holston,North Texas Mean Green,Wing
@@ -1658,13 +1712,11 @@ Nick Hough,Appalachian State Mountaineers,Guard
 Jordan Howard,Central Arkansas Bears,Guard
 Maurice Howard,Alcorn State Braves,Guard
 Javis Howard,Charleston Southern Buccaneers,Wing
-Markus Howard,Marquette Golden Eagles,Wing
 Lemmie Howard,Jackson State Tigers,Wing
 Frank Howard,Syracuse Orange,Wing
 Joshua Howard,Brown Bears,Big
 Chris Howell,South Dakota State Jackrabbits,Wing
 Hayden Howell,Abilene Christian Wildcats,Big
-Jalen Hudson,Florida Gators,Wing
 Chad Hudson,IUPUI Jaguars,Guard
 Michael Hueitt Jr,Old Dominion Monarchs,Wing
 Dewan Huell,Miami (FL) Hurricanes,Big
@@ -1697,7 +1749,6 @@ Carlton Hurst,South Dakota Coyotes,Guard
 Michael Hurt,Minnesota Golden Gophers,Big
 Hassan Hussein,FIU Golden Panthers,Wing
 Myles Hutchinson,McNeese State Cowboys,Guard
-Chandler Hutchison,Boise State Broncos,Guard
 Brandon Hutton,Northwestern State Demons,Wing
 Marcanvis Hymon,Ole Miss Rebels,Wing
 Josh Ibarra,Houston Baptist Huskies,Big
@@ -1727,7 +1778,6 @@ Ebuka Izundu,Miami (FL) Hurricanes,Big
 Ishmail Jabbie,UMBC Retrievers,Guard
 Khari Jabriel Allen,Alcorn State Braves,Guard
 Maceo Jack,George Washington Colonials,Guard
-Justin Jackson,Maryland Terrapins,Wing
 Brandon Jackson,SIUE Cougars,Wing
 DJ Jackson,SIUE Cougars,Wing
 Tony Jackson,UMKC Kangaroos,Wing
@@ -1758,7 +1808,6 @@ Delveion Jackson,UC Davis Aggies,Wing
 Aaron Jackson,East Carolina Pirates,Wing
 Tadric Jackson,Georgia Tech Yellow Jackets,Guard
 Jermaine Jackson Jr,Detroit Titans,Guard
-Jaren Jackson Jr,Michigan State Spartans,Big
 William Jackson II,Georgia Bulldogs,Wing
 Devin Jackson,Sam Houston State Bearkats,Guard
 Aundre Jackson,Loyola Chicago Ramblers,Wing
@@ -1824,7 +1873,6 @@ Desmond Johnson,Western Carolina Catamounts,Guard
 Torry Johnson,Northern Arizona Lumberjacks,Guard
 Anthony Johnson,Northern Colorado Bears,Guard
 DeRias Johnson,Southern University Jaguars,Guard
-Alize Johnson,Missouri State Bears,Big
 Nate Johnson,Gardner-Webb Runnin' Bulldogs,Guard
 Kevin Johnson,Nicholls Colonels,Guard
 Frankie Johnson,Citadel Bulldogs,Guard
@@ -1930,7 +1978,6 @@ Max Joseph,Valparaiso Crusaders,Guard
 Jacob Joubert,Detroit Titans,Guard
 John Joyce,Chicago State Cougars,Wing
 Aleksa Jugovic,Tennessee Tech Golden Eagles,Guard
-Shakur Juiston,UNLV Runnin' Rebels,Big
 Steven Julian,Cornell Big Red,Wing
 Taavi Jurkatamm,San Francisco Dons,Guard
 Peter Jurkin,East Tennessee State Buccaneers,Big
@@ -2024,7 +2071,6 @@ Bryan Knapp,Cornell Big Red,Guard
 Robert Knar,UMKC Kangaroos,Guard
 Nathan Knight,William & Mary Tribe,Big
 Chris Knight,Dartmouth Big Green,Big
-Kevin Knox,Kentucky Wildcats,Wing
 David Knudsen,Marist Red Foxes,Wing
 Bennett Koch,UNI Panthers,Wing
 Tyler Kohl,Central Connecticut State Blue Devils,Wing
@@ -2299,7 +2345,6 @@ Isaiah Martin,Florida A&M Rattlers,Big
 Robert Martin,Rice Owls,Big
 Aram Martin,Bryant Bulldogs,Wing
 Cody Martin,Nevada Wolf Pack,Wing
-Caleb Martin,Nevada Wolf Pack,Wing
 Gerard Martin,Grand Canyon Antelopes,Wing
 Cam Martin,Jacksonville State Gamecocks,Wing
 Jamar Martin,Charleston Southern Buccaneers,Wing
@@ -2314,16 +2359,13 @@ CJ Massinburg,Buffalo Bulls,Wing
 Nick Masterson,Kennesaw State Owls,Guard
 Terry Maston,Baylor Bears,Wing
 Mario Matasovic,Sacred Heart Pioneers,Wing
-Yante Maten,Georgia Bulldogs,Big
 Garrison Mathews,Lipscomb Bisons,Wing
 Jonah Mathews,USC Trojans,Guard
-Dakota Mathias,Purdue Boilermakers,Guard
 Anthony Mathis,New Mexico Lobos,Wing
 Sukhmail Mathon,Boston University Terriers,Big
 John Matt Merritt,Lipscomb Bisons,Guard
 Keith Matthews,Stetson Hatters,Wing
 Dominique Matthews,UIC Flames,Wing
-Charles Matthews,Michigan Wolverines,Wing
 EC Matthews,Rhode Island Rams,Wing
 KJ Maura,UMBC Retrievers,Guard
 Makol Mawien,Kansas State Wildcats,Big
@@ -2365,7 +2407,6 @@ Ryan McClurg,Texas Longhorns,Wing
 Travis McConico,Charleston Southern Buccaneers,Wing
 Matty McConnell,Robert Morris Colonials,Guard
 Jacob McCord,Idaho State Bengals,Wing
-Brandon McCoy,UNLV Runnin' Rebels,Big
 Jaylen McCoy,SIUE Cougars,Guard
 Javante McCoy,Boston University Terriers,Guard
 Lapri McCrayPace,Morgan State Bears,Guard
@@ -2379,7 +2420,6 @@ Moe McDonald,Texas-Rio Grande Valley Vaqueros,Guard
 Drew McDonald,Northern Kentucky Norse,Wing
 Luke McDonnell,UNI Panthers,Big
 Keegan McDowell,Liberty Flames,Wing
-Markis McDuffie,Wichita State Shockers,Wing
 Artavious McDyess,UAPB Golden Lions,Big
 Koby McEwen,Utah State Aggies,Guard
 David McFarland,SIUE Cougars,Guard
@@ -2455,7 +2495,6 @@ Sam Merrill,Utah State Aggies,Guard
 Marcus Merriweather,Alabama A&M Bulldogs,Guard
 Wassef Methnani,Fairfield Stags,Wing
 Malik Metoyer,Northwestern State Demons,Guard
-Chimezie Metu,USC Trojans,Big
 Daniel Meyer,Omaha Mavericks,Wing
 Luke Meyer,Central Michigan Chippewas,Wing
 Austin Meyer,Rice Owls,Big
@@ -2497,7 +2536,6 @@ JoVontae Millner,Presbyterian Blue Hose,Wing
 Rod Mills Jr,Miami (OH) RedHawks,Wing
 Matt Milon,William & Mary Tribe,Wing
 Damari Milstead,Grand Canyon Antelopes,Guard
-Shake Milton,SMU Mustangs,Guard
 Justin Minaya,South Carolina Gamecocks,Wing
 Dalique Mingo,Howard Bison,Guard
 Jaylen Minnett,IUPUI Jaguars,Guard
@@ -2587,7 +2625,6 @@ Travis Munnings,Louisiana-Monroe Warhawks,Wing
 George Muresan,Georgetown Hoyas,Wing
 Ade Murkey,Denver Pioneers,Wing
 Brandon Murphy,Indiana State Sycamores,Big
-Jordan Murphy,Minnesota Golden Gophers,Wing
 Ryan Murphy,Charlotte 49ers,Guard
 Storm Murphy,Wofford Terriers,Guard
 Tomas Murphy,Northeastern Huskies,Big
@@ -2600,7 +2637,6 @@ Justyn Mutts,High Point Panthers,Wing
 Joe Mvuezolo Jr,Montana State Bobcats,Wing
 Wesley Myers,South Carolina Gamecocks,Guard
 Wes Myers,South Carolina Gamecocks,Guard
-Sviatoslav Mykhailiuk,Kansas Jayhawks,Wing
 Tim Myles,Houston Baptist Huskies,Wing
 Divine Myles,Stetson Hatters,Guard
 Brendon Myles,Florida A&M Rattlers,Wing
@@ -2674,7 +2710,6 @@ Dane Norman,Air Force Falcons,Wing
 Riley Norris,Alabama Crimson Tide,Wing
 Deontae North,Portland State Vikings,Guard
 Nick Norton,UAB Blazers,Guard
-Zach Norvell Jr,Gonzaga Bulldogs,Wing
 JD Notae,Jacksonville Dolphins,Guard
 TreLarenz Nottingham,Texas State Bobcats,Guard
 Jaylen Nowell,Washington Huskies,Wing
@@ -2726,7 +2761,6 @@ Chuma Okeke,Auburn Tigers,Big
 Duby Okeke,Nebraska Cornhuskers,Big
 Sunday Okeke,Wake Forest Demon Deacons,Big
 Obim Okeke,Baylor Bears,Guard
-Josh Okogie,Georgia Tech Yellow Jackets,Wing
 Obi Okolie,Brown Bears,Guard
 Simon Okolue,Delaware State Hornets,Big
 Namdi Okonkwo,Pacific Tigers,Big
@@ -2881,7 +2915,6 @@ Keith Pinckney,Old Dominion Monarchs,Guard
 Keanu Pinder,Arizona Wildcats,Wing
 Isaiah Pineiro,San Diego Toreros,Wing
 Khalen Pinkett,Savannah State Tigers,Guard
-Theo Pinson,North Carolina Tar Heels,Wing
 PJ Pipes,Green Bay Phoenix,Guard
 Luwane Pipkins,Massachusetts Minutemen,Guard
 Kavion Pippen,Southern Illinois Salukis,Wing
@@ -2904,14 +2937,11 @@ Hannes Polla,Oklahoma Sooners,Big
 Mark Pollack,Army West Point Black Knights,Wing
 Jeff Pollard,Washington State Cougars,Big
 Tyler Polley,Connecticut Huskies,Wing
-Shamorie Ponds,St. John's Red Storm,Wing
 Yves Pons,Tennessee Volunteers,Wing
 Jordan Poole,Michigan Wolverines,Wing
-Malik Pope,San Diego State Aztecs,Wing
 Christian Popoola,Utah Runnin' Utes,Wing
 Nik Popovic,Boston College Eagles,Wing
 Trey Porter,Old Dominion Monarchs,Wing
-Jontay Porter,Missouri Tigers,Big
 Abel Porter,Utah State Aggies,Guard
 Ed Porter,Lehigh Mountain Hawks,Wing
 Malcolm Porter,Portland Pilots,Wing
@@ -2980,7 +3010,6 @@ Mason Ramsey,Tennessee Tech Golden Eagles,Wing
 Jarrin Randall,Western Michigan Broncos,Guard
 Tyrei Randall,Rider Broncs,Wing
 Brandon Randolph (Utah Valley Wolverines),Utah Valley Wolverines,Guard
-Brandon Randolph (Arizona Wildcats),Arizona Wildcats,Wing
 Jordan Ratinho,San Francisco Dons,Guard
 Jordan Ratliffe,VMI Keydets,Guard
 Brett Rau,Missouri Tigers,Guard
@@ -2995,7 +3024,6 @@ Will Rayman,Colgate Raiders,Wing
 Janai Raynor Powell,South Carolina State Bulldogs,Guard
 Duop Reath,LSU Tigers,Big
 Austin Reaves,Wichita State Shockers,Guard
-Josh Reaves,Penn State Nittany Lions,Wing
 Kamron Reaves,Florida A&M Rattlers,Guard
 Darreon Reddick,Tennessee State Tigers,Guard
 Jacob Redding,Louisville Cardinals,Guard
@@ -3042,7 +3070,6 @@ Malachi Rice,Georgia Tech Yellow Jackets,Guard
 Isaiah Rice,Vanderbilt Commodores,Guard
 Lance Richard,Louisiana-Monroe Warhawks,Guard
 Khalil Richard,Siena Saints,Guard
-Nick Richards,Kentucky Wildcats,Big
 DAngelo Richardson,Southern Miss Golden Eagles,Guard
 James Richardson,South Carolina State Bulldogs,Guard
 JaQuel Richmond,UNCW Seahawks,Guard
@@ -3067,7 +3094,6 @@ Jimario Rivers,Memphis Tigers,Wing
 Demetre Rivers,Mercer Bears,Guard
 CJ Rivers,Drake Bulldogs,Guard
 Maurice Rivers,Jackson State Tigers,Wing
-Kerwin Roach II,Texas Longhorns,Wing
 Jamaal Robateau,Gardner-Webb Runnin' Bulldogs,Wing
 Dominic Robb,Niagara Purple Eagles,Wing
 Jeff Roberson,Vanderbilt Commodores,Wing
@@ -3250,10 +3276,8 @@ Jordan Session,Georgia State Panthers,Wing
 Nate Sestina,Bucknell Bison,Big
 Nick Severado,Florida A&M Rattlers,Wing
 Lane Severyn,South Dakota State Jackrabbits,Wing
-Collin Sexton,Alabama Crimson Tide,Guard
 Ronshad Shabazz,Appalachian State Mountaineers,Wing
 Nigel Shadd,Kansas State Wildcats,Big
-Landry Shamet,Wichita State Shockers,Wing
 Josh Sharkey,Samford Bulldogs,Guard
 Josh Sharma,Stanford Cardinal,Big
 Tyler Sharpe,Northern Kentucky Norse,Guard
@@ -3304,8 +3328,6 @@ Caleb Simmons,San Jose State Spartans,Wing
 Aamir Simms,Clemson Tigers,Big
 Mikel Simms,VCU Rams,Wing
 Deven Simms,Arkansas State Red Wolves,Guard
-Justin Simon,St. John's Red Storm,Guard
-DMarcus Simonds,Georgia State Panthers,Wing
 Troy Simons,New Mexico Lobos,Guard
 Triston Simpson,South Dakota Coyotes,Guard
 Zavier Simpson,Michigan Wolverines,Guard
@@ -3353,7 +3375,6 @@ Stef Smith,Vermont Catamounts,Guard
 Justin Smith,Indiana Hoosiers,Wing
 Ivy Smith Jr,Grambling State Tigers,Guard
 Houston Smith,Bethune-Cookman Wildcats,Wing
-Zhaire Smith,Texas Tech Red Raiders,Guard
 Zach Smith (Texas Tech Red Raiders),Texas Tech Red Raiders,Wing
 Brandon Smith,UC Irvine Anteaters,Wing
 Kendall Smith,Oklahoma State Cowboys,Guard
@@ -3367,7 +3388,6 @@ Tirus Smith,UTEP Miners,Wing
 Anthony Smith (UNLV Runnin' Rebels),UNLV Runnin' Rebels,Wing
 Keith Smith (Oregon Ducks),Oregon Ducks,Wing
 Anthony Smith (Murray State Racers),Murray State Racers,Wing
-Dru Smith,Evansville Aces,Wing
 Aaren Smith,Rutgers Scarlet Knights,Guard
 Tarin Smith,Duquesne Dukes,Guard
 Myles Smith,Texas A&M-Corpus Christi Islanders,Guard
@@ -3398,7 +3418,6 @@ Andrew Sorrells,Texas Tech Red Raiders,Guard
 James Sosinkski,Kansas Jayhawks,Wing
 Jimmy Sotos,Bucknell Bison,Guard
 Kareem South,Texas A&M-Corpus Christi Islanders,Guard
-Ray Spalding,Louisville Cardinals,Big
 Jure Span,USC Upstate Spartans,Wing
 Austin Sparks,South Dakota Coyotes,Wing
 Dimitri Spasojevic,East Carolina Pirates,Big
@@ -3582,7 +3601,6 @@ Ahmad Thomas,UNC Asheville Bulldogs,Guard
 Noah Thomas,Drake Bulldogs,Guard
 Donte Thomas,Bradley Braves,Wing
 Miryne Thomas,Maryland Eastern Shore Hawks,Wing
-Khyri Thomas,Creighton Bluejays,Wing
 Justin Thomas,Northern Illinois Huskies,Guard
 Dustin Thomas,Arkansas Razorbacks,Wing
 Paul Thomas,UTEP Miners,Big
@@ -3615,7 +3633,6 @@ Raynere Thornton,Memphis Tigers,Wing
 Derryck Thornton,USC Trojans,Guard
 Dante Thorpe,Northern Illinois Huskies,Guard
 Geno Thorpe,Syracuse Orange,Wing
-Matisse Thybulle,Washington Huskies,Wing
 Austin Tilghman,Monmouth Hawks,Guard
 Riley Till,Iowa Hawkeyes,Wing
 Killian Tillie,Gonzaga Bulldogs,Big
@@ -3657,9 +3674,7 @@ Dalen Traore,Evansville Aces,Big
 Clyde Trapp,Clemson Tigers,Guard
 Reid Travis,Stanford Cardinal,Wing
 Darrian Traylor,UC Irvine Anteaters,Wing
-Gary Trent Jr,Duke Blue Devils,Wing
 DMitrik Trice,Wisconsin Badgers,Guard
-Allonzo Trier,Arizona Wildcats,Wing
 Tyler Trillo,Arizona Wildcats,Guard
 Bryan Trimble Jr,St. John's Red Storm,Wing
 Jahlil Tripp,Pacific Tigers,Wing
@@ -3714,7 +3729,6 @@ Andy Van Vliet,Wisconsin Badgers,Big
 Parker Van Dyke,Utah Runnin' Utes,Guard
 Luuk van Bree,Bradley Braves,Wing
 Wes VanBeck,Houston Cougars,Guard
-Jarred Vanderbilt,Kentucky Wildcats,Wing
 Cullen VanLeer,Missouri Tigers,Wing
 Issac Vann,VCU Rams,Wing
 Kevin Vannatta,UNC Asheville Bulldogs,Guard
@@ -3734,7 +3748,6 @@ Keonta Vernon,Grand Canyon Antelopes,Wing
 Matic Vesel,Illinois Fighting Illini,Wing
 Alan Vest,Wright State Raiders,Wing
 Reed Vial,LSU Tigers,Guard
-Lagerald Vick,Kansas Jayhawks,Wing
 Cordell Viera,FIU Golden Panthers,Guard
 Alex Vilarino,Texas Tech,Guard
 Gabe Vincent,UC Santa Barbara Gauchos,Guard
@@ -3752,7 +3765,6 @@ Trey Wade,UTEP Miners,Wing
 Jesse Wade,Gonzaga Bulldogs,Guard
 Dean Wade,Kansas State Wildcats,Big
 Ahmad Wagner,Iowa Hawkeyes,Big
-Moritz Wagner,Michigan Wolverines,Wing
 Houston Wahlen,Idaho State Bengals,Guard
 Amaad Wainright,Kansas State Wildcats,Guard
 Jordan Walker (Morehead State Eagles),Morehead State Eagles,Guard
@@ -3770,7 +3782,6 @@ Jordan Walker (Seton Hall Pirates),Seton Hall Pirates,Guard
 Derrick Walker,Tennessee Volunteers,Big
 Antwan Walker,Georgetown Hoyas,Wing
 CJ Walker,Florida State Seminoles,Guard
-Lonnie Walker IV,Miami (FL) Hurricanes,Wing
 Derrick Walker Jr,Tennessee Volunteers,Big
 Tevonn Walker,Valparaiso Crusaders,Guard
 Chyree Walker,Delaware Fightin' Blue Hens,Wing
@@ -3794,7 +3805,6 @@ Dallas Walton,Colorado Buffaloes,Big
 Isaiah Walton,Longwood Lancers,Guard
 Cam Ward,Vermont Catamounts,Guard
 Tyson Ward,North Dakota State Bison,Wing
-Nick Ward,Michigan State Spartans,Big
 Hunter Ware,Bryant Bulldogs,Guard
 Josh Warren,Cornell Big Red,Big
 Micheal Warren,CSUN Matadors,Guard
@@ -3809,12 +3819,10 @@ Tony Washington,La Salle Explorers,Big
 Jylan Washington,Louisiana Tech Bulldogs,Wing
 Kyle Washington,Cincinnati Bearcats,Big
 Howard Washington,Syracuse Orange,Guard
-PJ Washington,Kentucky Wildcats,Wing
 Kealen WashingtonIves,Rider Broncs,Guard
 Yuta Watanabe,George Washington Colonials,Wing
 Zane Waterman,Manhattan Jaspers,Wing
 Lindy Waters III,Oklahoma State Cowboys,Wing
-Tremont Waters,LSU Tigers,Guard
 David Watkins,New Hampshire Wildcats,Wing
 Mike Watkins,Penn State Nittany Lions,Big
 Jordan Watkins,Davidson Wildcats,Guard
@@ -3891,7 +3899,6 @@ Jonathan Wiley,Southern Illinois Salukis,Guard
 Evan Wiley,Alabama A&M Bulldogs,Wing
 Johquin Wiley,Delaware State Hornets,Guard
 Luke Wilfong,SMU Mustangs,Guard
-Kris Wilkes,UCLA Bruins,Wing
 Wyatt Wilkes,Florida State Seminoles,Wing
 Isaiah Wilkins,Virginia Cavaliers,Wing
 Johnathon Wilkins,New Mexico State Aggies,Wing
@@ -3924,7 +3931,6 @@ Kam Williams,Ohio State Buckeyes,Guard
 Shawn Williams,East Carolina Pirates,Guard
 Kenny Williams,North Carolina Tar Heels,Wing
 Carson Williams,Northern Kentucky Norse,Wing
-Kenrich Williams,TCU Horned Frogs,Wing
 Malik Williams,Louisville Cardinals,Big
 DaMonte Williams,Illinois Fighting Illini,Wing
 Jalen Williams,Furman Paladins,Big
@@ -3938,7 +3944,6 @@ Xeyrius Williams,Dayton Flyers,Big
 Kwintin Williams,Connecticut Huskies,Wing
 Eric Williams Jr,Duquesne Dukes,Guard
 Desmond Williams,Florida A&M Rattlers,Wing
-Robert Williams,Texas A&M Aggies,Big
 Charles Williams,Howard Bison,Wing
 Keon Williams,St. Francis Brooklyn Terriers,Wing
 Jamal Williams,Sam Houston State Bearkats,Guard
@@ -3978,7 +3983,6 @@ Everett Winchester,Wright State Raiders,Wing
 Dylan Windler,Belmont Bruins,Wing
 Terry Winn,Texas-Rio Grande Valley Vaqueros,Wing
 Deschon Winston,California Golden Bears,Guard
-Cassius Winston,Michigan State Spartans,Guard
 Austin Witherill,Arizona State Sun Devils,Guard
 Jaron Withers,Presbyterian Blue Hose,Guard
 Alec Wnuk,UNC Asheville Bulldogs,Wing
@@ -3993,7 +3997,6 @@ Keyshawn Woods,Wake Forest Demon Deacons,Guard
 Brad Woodson,Tennessee Volunteers,Guard
 Graham Woodward,Drake Bulldogs,Guard
 Ryan Woolridge,North Texas Mean Green,Guard
-Kenny Wooten,Oregon Ducks,Big
 Bobby Word,Cleveland State Vikings,Guard
 Eyassu Worku,UC Irvine Anteaters,Guard
 Kenny Wormley,Hofstra Pride,Guard
@@ -4022,7 +4025,6 @@ Devin Wyatt,Incarnate Word Cardinals,Wing
 Malcolm Wynter,Davidson Wildcats,Guard
 Tai Wynyard,Kentucky Wildcats,Big
 Kassoum Yakwe,St. John's Red Storm,Big
-Milik Yarbrough,Illinois State Redbirds,Wing
 Noah Yates,Yale Bulldogs,Wing
 Akwasi Yeboah,Stony Brook Seawolves,Wing
 Kaijae YeeStephens,Pepperdine Waves,Wing
@@ -4032,12 +4034,10 @@ Kalif Young,Providence Friars,Big
 Cameron Young,Quinnipiac Bobcats,Guard
 Jacob Young,Texas Longhorns,Wing
 Kyle Young,Ohio State Buckeyes,Big
-Trae Young,Oklahoma Sooners,Guard
 Aaron Young,Princeton Tigers,Guard
 Clay Young,Kansas Jayhawks,Wing
 JC Younger,Presbyterian Blue Hose,Wing
 AJ Youngman,Eastern Kentucky Colonels,Wing
-Omer Yurtseven,North Carolina State Wolfpack,Big
 Temidayo Yussuf,Long Beach State 49ers,Wing
 Kevin Zabo,Kent State Golden Flashes,Guard
 Paulius Zalys,Lafayette Leopards,Wing
